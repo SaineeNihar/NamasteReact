@@ -1,0 +1,22 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "my react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaineeNihar/NamasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nihar Sainee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaineeNihar/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/SaineeNihar/NamasteReact#readme"
+}
